@@ -33,7 +33,7 @@ Instead of manually running `git add` for each file, this script presents you wi
 3. Run it from the root of your Git repository:
 
     ```bash
-    ./git-interactive-add.sh
+    ./pusher.sh
     ```
 
 ---
